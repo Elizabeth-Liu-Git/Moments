@@ -1,6 +1,6 @@
 # MOMENTS – App for mental health
 
-This is a protoype for mobile application that is aimed at reducing anxiety and support mental health among the younger age groups. The project was developed as a part of curriculum delivered for the course Technology Innovation–CSCI4193, Dalhousie University, Canada.
+This is a protoype for mobile application that is aimed at reducing anxiety and support mental health among the younger age groups. The project was developed as a part of curriculum delivered for boilermake
 
 **Highlights:**
 * Easy to setup.

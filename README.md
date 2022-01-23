@@ -13,7 +13,7 @@ This is a protoype for mobile application that is aimed at reducing anxiety and 
 * Run index.html on the browser.
 
 ## Frameworks and Tools
-* [Firebase](https://firebase.google.com) – Backend infrastructure 
+* [Firebase](https://firebase.google.com) – Backend infrastructure
 * [OnsenUI](https://onsen.io) – Hybrid mobile application frontend
  
 ## Author
